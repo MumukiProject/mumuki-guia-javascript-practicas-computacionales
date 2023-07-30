@@ -1,0 +1,1 @@
+un ejemplo: supongamos que queremos saber, dado un mes y un día, en qué estación del año (primavera, verano, etc) estamos. 

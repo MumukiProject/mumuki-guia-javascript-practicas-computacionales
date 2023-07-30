@@ -1,4 +1,4 @@
-Ya sea para no molestar al vecindario o para que no nos hagan daño los auriculares, queremos saber cuán fuerte está la música. 
+:sound: Ya sea para evitar que los auriculares no nos hagan daño o no molestar a la vecindad, queremos saber cuán fuerte está la música. 
 
 Escribí una función `nivelDeSonido` que nos diga cuán fuerte está la música, en base al volumen. 
 
